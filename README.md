@@ -1,2 +1,2 @@
 # Codewars
-Katas completed on codewars
+Katas completed on codewars.com
